@@ -8,8 +8,8 @@ type: challenges
 ## Week 2 Challenges!
 
 + Make Fwitter pretty! Check out the CSS resources on Ironboard to review. 
-+ Try adding an additional input to your tweets form, like a dropdown menu or checkbox with options for moods (similar to facebook).
-+ Try adding a hidden input that works with Ruby’s DateTime feature to timestamp your tweet. Hint - Using the Ruby `strftime` method in conjunction with the Ruby DateTime library will be helpful for saving the info in a nice display format. 
++ Try adding an input to your tweets form, like a dropdown menu or checkbox with options for moods (similar to Facebook).
++ Try adding a hidden input that works with Ruby’s DateTime feature to timestamp your tweet. Hint - Using the Ruby `strftime` method will be helpful for saving the info in a nice display format. 
 + Start building a side project! Some ideas:
 ..* todo list
 ..* fitness tracker
