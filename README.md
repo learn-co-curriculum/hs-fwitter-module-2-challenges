@@ -7,7 +7,7 @@ type: challenges
 
 ## Week 2 Challenges!
 
-First, if you haven't finished today's ToDo give that a shot. Then tackle any of the challenges below!
+First - if you haven't finished today's ToDo, give that a shot. Then tackle any of the challenges below!
 
 + Make Fwitter pretty! Check out the CSS resources for some help. 
 + Try adding a hidden input in your form that works with Ruby’s DateTime feature to timestamp your tweet.
