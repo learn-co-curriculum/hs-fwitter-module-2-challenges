@@ -5,7 +5,7 @@ level: 2
 type: challenges
 ---
 
-## Week 2 Challenges!
+## Module 2 Challenges!
 
 First - if you haven't finished today's ToDo, give that a shot. Then tackle any of the challenges below!
 
